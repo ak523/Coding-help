@@ -1,2 +1,2 @@
 # Coding help
-This is simple template of a code enthusiat website made with the help of bootstrap.
+This is simple template of a coding website made with the help of bootstrap.
